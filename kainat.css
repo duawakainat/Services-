@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.kaka{height: 500px;}
+.fan{font-size: 40px; margin: 70px auto; color: lightgray;}
+/* .bg{margin: 190px auto; height: 280px; background: transparent; background-color:hwb(277 15% 43% / 0.2);} */
+/* .card{margin: 20px;} */
+.ben{background: linear-gradient(200deg,#06011b,#b56829);
+    background-blend-mode: saturation;}
+    .baba{
+        font-size: 40px;
+        margin-left: 30px;
+        margin-top: 20px;
+    }
+    .navbar-brand{
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    .nav-item a.jaja,
+     a:hover{
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        text-decoration-line: overline;
+        text-decoration-color: yellow;
+    }
+    .navbar{
+        background-image:linear-gradient(230deg,#112234,#000905);
+    }

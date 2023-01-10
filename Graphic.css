@@ -1,0 +1,38 @@
+.pic img{
+    height: 90px;
+    border-radius: 50%;
+border: 8px solid rgba(234, 345, 189, .2);
+width: 120px;
+position: relative;
+bottom: 30px;
+}
+
+.bg-image img{
+    width: 100%;
+    height: 190px;
+    object-fit: cover;
+    clip-path: polygon(50% 0%, 100% 0, 100% 76%, 75% 88%, 48% 100%, 0 75%, 0 0);
+}
+.card{
+    background: linear-gradient(#884400,#335577,#884400);
+    height: 450px;
+border-line:none;
+color: beige;}
+    .info{
+        position: relative;
+        bottom: 20px;
+    }
+    a{
+        text-decoration-line: none;
+        font-size: 30px;
+        position: relative;
+        bottom: 25px;
+        color: lightgray;
+        margin: 5px;
+    }
+    h1{
+    text-align: center;
+    font-family: 'IBM Plex Serif', serif;
+    font-weight: bolder;
+    }
+

@@ -1,0 +1,21 @@
+/* .hen {
+    width: 25px;
+}
+.bel{
+position: relative;
+right: 70px;
+top: 40px;
+bottom: 20px;
+} */
+.container{
+    background:linear-gradient(300deg,#080907,#9fb9a2);
+    color: aliceblue;
+}
+.jaja{
+    margin: 40px auto 20px 0px;
+    font-family: 'IBM Plex Serif', serif;
+    font-weight: bolder;
+}
+/* h1{
+    font-family: 'IBM Plex Serif', serif;
+} */

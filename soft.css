@@ -1,0 +1,68 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica;}
+
+.img{
+    width: 300px;
+    height: 350px;
+    clip-path: polygon(20% 0%, 80% 0%, 100% 20%, 100% 80%, 80% 100%, 20% 100%, 0% 80%, 0% 20%);
+    background:transparent;
+    background-image: url("images (21).jfif");
+    background-repeat: cover;
+    height: 200px;
+}
+.img card-text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.white{color: aliceblue;}
+.waverow{
+    position: relative;
+    width: 100%;
+    height:88vh;
+background: linear-gradient(220deg,#0F1012,#112233);
+background-blend-mode: saturation;
+overflow: hidden;
+}
+.img1{
+    position: relative;
+    min-width: 100%; 
+     /* z-index: 10; */
+     overflow: hidden;
+} 
+.wave{
+    position: absolute;
+    bottom: -1px;
+    left: 0;
+}
+.card-body {
+    background: linear-gradient(290deg,#0F1012,#112233);
+background-blend-mode: saturation;
+}
+a{
+    text-decoration-line: none;
+    color: aliceblue;
+}
+.baba{
+    font-size: 40px;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+.nana{
+    font-family: 'IBM Plex Serif', serif;
+}
+.navbar-brand{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.nav-item a.jaja,
+ a:hover{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-decoration-line: overline;
+    text-decoration-color: yellow;
+}
+.navbar{
+    background-image:linear-gradient(230deg,#112234,#000905);
+}

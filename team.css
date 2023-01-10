@@ -1,0 +1,41 @@
+/* .wave{
+    position:absolute;
+    bottom: 1px;
+    left: 0;
+}
+.waverow{
+    position: relative;
+    height: 70vh;
+    width: 100%*/
+a{
+    color: azure;
+    margin: 0 5px;
+    font-size: 20px;
+    text-decoration-line: none;
+}
+.fan{
+    position: absolute;
+    width: 100%;
+    height: 70%;
+    background-color: rgba(0, 0, 0, 0.05);
+}
+    .card-text{
+        position: relative;
+        top: 40px;
+    }
+    .baba{
+        font-size: 40px;
+        margin-left: 30px;
+        margin-top: 20px;
+    }
+    .navbar-brand{
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    .nav-item a.jaja,
+     a:hover{
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        text-decoration-line: overline;
+    text-decoration-color: yellow;
+    }
+    .navbar{
+        background-image:linear-gradient(230deg,#112234,#000905);}
